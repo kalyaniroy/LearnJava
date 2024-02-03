@@ -7,7 +7,7 @@ public class StringTest {
 	
 	  public static void main(String[] args) {
 		  Scanner sc = new Scanner(System.in);
-		  System.out.println("Please enter input");
+		  System.out.println("Please enter inputfff");
 		  String input = sc.next();
 		  int sum=0;
 		  String alpha= "";
